@@ -38,9 +38,7 @@ public class SalesContract {
         this.contractId = contractId;
     }
 
-    public String getContractDate() {
-        return contractDate;
-    }
+    public String getContractDate() {return contractDate;}
 
     public void setContractDate(String contractDate) {
         this.contractDate = contractDate;
