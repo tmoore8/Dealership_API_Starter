@@ -8,5 +8,4 @@ public interface SalesContractDao {
 
     SalesContract create(SalesContract salesContract);
 
-
 }

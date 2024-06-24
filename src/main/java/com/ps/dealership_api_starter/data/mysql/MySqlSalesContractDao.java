@@ -1,7 +1,6 @@
 package com.ps.dealership_api_starter.data.mysql;
 
 import com.ps.dealership_api_starter.data.SalesContractDao;
-import com.ps.dealership_api_starter.models.Dealership;
 import com.ps.dealership_api_starter.models.SalesContract;
 
 import javax.sql.DataSource;
